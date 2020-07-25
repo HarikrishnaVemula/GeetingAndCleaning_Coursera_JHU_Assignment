@@ -5,9 +5,7 @@ date: "7/25/2020"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 The following 5 steps are demonstrate how to initiate each R Script to be execute and get the result in the format of rows and column along with required output, in the *run_analysis.R* file.
 
